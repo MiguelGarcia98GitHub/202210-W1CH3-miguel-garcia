@@ -118,3 +118,31 @@ footer {
     height: 10vh;
     background-color: rgb(81, 105, 167);
 }
+
+form {
+    margin: 2rem;
+}
+
+.name {
+    height: 10vh;
+    margin-top: 2rem;
+}
+
+.name > hr {
+    margin-top: 3rem;
+}
+
+.precio {
+    height: 10vh;
+    margin-top: 2rem;
+}
+
+.precio > hr {
+    margin-top: 3rem;
+}
+
+button {
+    padding: 0.5rem;
+    font-size: 1.1rem;
+    background-color: rgb(81, 105, 167);
+}
